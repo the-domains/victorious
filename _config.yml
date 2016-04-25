@@ -1,7 +1,7 @@
 name: victorious
 favicon: null
-layout_spectrum: 0.9452432636171579
-typography_spectrum: 0.7512132842093706
+layout_spectrum: 0.34325
+typography_spectrum: 0.8183
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.49421248282305896
+    - '#0e0920'
+    - '#39354c'
+    - '#a9a298'
+    - '#625d59'
+    - '#f9dbbf'
+  brandStrength: 0.5
   lightness: 0.6626045398879796
   saturation: 0.7716992315836251
   rhythmicContrast: 0.8971995208412409
