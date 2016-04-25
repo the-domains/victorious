@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: просто пробвам
-datePublished: '2016-04-25T19:19:34.630Z'
-dateModified: '2016-04-25T19:17:55.074Z'
+datePublished: '2016-04-25T19:20:29.804Z'
+dateModified: '2016-04-25T19:19:46.360Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-prosto-probvam.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-prosto-probvam.md
-published: true
 url: prosto-probvam/index.html
 _type: Article
 
